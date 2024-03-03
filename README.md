@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Social Profile" src="/Social-links-profile/design/desktop-design.jpg" width="100%">
+  <img alt="Social Profile" src=".github/social-profile.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
