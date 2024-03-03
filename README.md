@@ -2,7 +2,7 @@
 
 <p align="center">
   Projeto da front-end mentor para praticar HTML e CSS do básico até o avançado.
-  Mais uma vez utilizando flex, salvando nossas vidas de programador.
+  Mais uma vez utilizando flex salvando nossas vidas de programador.
 </p>
 
 <br>
